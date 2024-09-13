@@ -13,7 +13,7 @@ import java.io.Writer;
 /**
  * @ Tool：IntelliJ IDEA
  * @ Author：林宇轩
- * @ Date：2024-09-13-11:33
+ * @ Date：2023-03-13-11:33
  * @ Version：1.0
  * @ Description：GreenplumWriter
  */
